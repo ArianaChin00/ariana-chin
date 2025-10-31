@@ -35,7 +35,7 @@ Joint work with Liljana Babinkostova, Aaron Kirtland, Esther Plotnick, and Vlady
 
 
 # Teaching
-### <strong>Math 184</strong> -- Enumerative Combinatorics
+### <b>Math 184</b> -- Enumerative Combinatorics
 Spring 2024
 
 ### <b>Math 170E</b> -- Introduction to Probability and Statistics
