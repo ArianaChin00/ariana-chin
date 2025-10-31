@@ -26,8 +26,8 @@ description: >- # this means to ignore newlines until "baseurl:"
   In Fall 2025, I am a Teaching Assistant for Math 131A -- Introduction to Real Analysis.
 baseurl: "/ariana-chin" # the subpath of your site, e.g. /blog
 url: "https://arianachin00.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+# twitter_username: jekyllrb
+# github_username:  jekyll
 
 # Build settings
 theme: jekyll-theme-cayman
