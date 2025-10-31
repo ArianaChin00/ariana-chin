@@ -4,8 +4,6 @@
 
 layout: default
 ---
-I am a 4th year PhD student at UCLA. I study algebraic combinatorics under [Pavel Galashin](https://www.math.ucla.edu/~galashin/), with an interest in cluster algebras and Zamolodchikov periodicity.
-In Fall 2025, I am a Teaching Assistant for Math 131A -- Introduction to Real Analysis.
 
 Attached is my [CV](https://arianachin00.github.io/ariana-chin/files/CV.pdf).
 
