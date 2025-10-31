@@ -13,7 +13,6 @@ In Fall 2025, I am TAing for Math 131A -- Introduction to Real Analysis.
 Attached is my [CV](https://arianachin00.github.io/ariana-chin/files/CV2025.pdf).
 
 # Papers
-<br>
 
 ##"Classification of Zamolodchikov periodic cluster algebras" [pdf](https://arxiv.org/pdf/2510.18031) [arXiv:2510.18031](https://arxiv.org/abs/2510.18031).
 2025
@@ -34,7 +33,6 @@ Joint work with Liljana Babinkostova, Aaron Kirtland, Esther Plotnick, and Vlady
 Joint work with Liljana Babinkostova, Aaron Kirtland, Esther Plotnick, and Vladyslav Nazarchuk.
 2019
 
-<br>
 
 # Teaching
 
