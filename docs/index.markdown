@@ -5,6 +5,10 @@
 layout: default
 ---
 
+<b>Email: </b> arianagchin@math.ucla.edu
+
+<b>Office: </b> Mathematical Sciences (MS) 2361
+
 Attached is my [CV](https://arianachin00.github.io/ariana-chin/files/CV.pdf).
 
 # Papers
