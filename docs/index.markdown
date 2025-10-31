@@ -4,7 +4,7 @@
 
 layout: home
 ---
-# 👋 Hi there, <br/> I'm Jonathon Belotti.
+# 👋 Hi there, <br/> I'm Ariana Chin.
 
 ### I am a 4th year PhD student at UCLA.
 
