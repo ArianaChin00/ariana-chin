@@ -4,7 +4,7 @@
 
 layout: default
 ---
-# 👋 Hi there, <br/> I'm Ariana Chin.
+# This is my page. <br/> I'm Ariana Chin.
 
 ### I am a 4th year PhD student at UCLA.
 
