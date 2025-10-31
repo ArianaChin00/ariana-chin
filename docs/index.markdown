@@ -4,6 +4,7 @@
 
 layout: default
 ---
+What if I wrote some stuff first
 # About Me
 
 ### I am a 4th year PhD student at UCLA. I study algebraic combinatorics under [Pavel Galashin](https://www.math.ucla.edu/~galashin/), with an interest in cluster algebras and Zamolodchikov periodicity.
