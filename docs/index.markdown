@@ -4,15 +4,16 @@
 
 layout: default
 ---
-# This is my page. <br/> I'm Ariana Chin.
+# About Me
 
-### I am a 4th year PhD student at UCLA.
+### I am a 4th year PhD student at UCLA. I study algebraic combinatorics under [Pavel Galashin](https://www.math.ucla.edu/~galashin/), with an interest in cluster algebras and Zamolodchikov periodicity.
+### In Fall 2025, I am TAing for Math 131A -- Introduction to Real Analysis.
 
 ### Attached is my [CV](https://thomasmartinez0.github.io/).
 
 <br>
 
-some stuff
+some stuff, including my paper "Classification of Zamolodchikov periodic cluster algebras" [here](https://arxiv.org/pdf/2510.18031).
 
 <br>
 
