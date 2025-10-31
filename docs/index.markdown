@@ -4,9 +4,6 @@
 
 layout: default
 ---
-What if I wrote some stuff first
-# About Me
-
 I am a 4th year PhD student at UCLA. I study algebraic combinatorics under [Pavel Galashin](https://www.math.ucla.edu/~galashin/), with an interest in cluster algebras and Zamolodchikov periodicity.
 In Fall 2025, I am TAing for Math 131A -- Introduction to Real Analysis.
 
@@ -14,10 +11,11 @@ Attached is my [CV](https://arianachin00.github.io/ariana-chin/files/CV2025.pdf)
 
 # Papers
 
-## "Classification of Zamolodchikov periodic cluster algebras" [pdf](https://arxiv.org/pdf/2510.18031) [arXiv:2510.18031](https://arxiv.org/abs/2510.18031).
+### "Classification of Zamolodchikov periodic cluster algebras" [pdf](https://arxiv.org/pdf/2510.18031) [arXiv:2510.18031](https://arxiv.org/abs/2510.18031).
 2025
 
 ### “F-Polynomial Ratios in the r-Kronecker” [pdf](https://www-users.cse.umn.edu/~reiner/REU/REU2021notes/Problem_3_Kronecker_F_polynomials.pdf) [slides](https://www-users.cse.umn.edu/~reiner/REU/REU2021notes/Problem_3_Slides.pdf).
+
 Joint work with Noah Caplinger, Nyah Davis, and Swapnil Garg.
 2021
 
