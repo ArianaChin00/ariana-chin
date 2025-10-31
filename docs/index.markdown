@@ -54,6 +54,6 @@ Spring 2023
 Fall 2024
 
 # More About Me
-I play [violin!](https://arianachin00.github.io/ariana-chin/files/music.pdf)
+I play [violin!](https://arianachin00.github.io/ariana-chin/files/music.pdf) I also jointly organize the [Women in Mathematics](https://ww3.math.ucla.edu/women-in-math/) group at UCLA.
 
-[**See latest blog posts →**]({{ site.baseurl }}/blog)
+<!--[**See latest blog posts →**]({{ site.baseurl }}/blog) -->
