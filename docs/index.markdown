@@ -35,6 +35,6 @@ Joint work with Liljana Babinkostova, Aaron Kirtland, Esther Plotnick, and Vlady
 # Teaching
 
 # More About Me
-I play violin! [resume](https://arianachin00.github.io/ariana-chin/files/music.pdf)
+I play [violin!](https://arianachin00.github.io/ariana-chin/files/music.pdf)
 
 [**See latest blog posts →**]({{ site.baseurl }}/blog)
