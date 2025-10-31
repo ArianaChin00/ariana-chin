@@ -8,7 +8,7 @@ layout: default
 
 ### I am a 4th year PhD student at UCLA.
 
-### Attached is my [CV](https://modal.com/).
+### Attached is my [CV](https://thomasmartinez0.github.io/).
 
 <br>
 
