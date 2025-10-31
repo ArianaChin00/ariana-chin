@@ -31,6 +31,27 @@ Joint work with Liljana Babinkostova, Aaron Kirtland, Esther Plotnick, and Vlady
 
 
 # Teaching
+### Math 184 -- Enumerative Combinatorics
+Spring 2024
+
+### Math 170E -- Introduction to Probability and Statistics
+Fall 2022, Winter 2023, Fall 2023 (Lectures 1 and 3), Spring 2025
+
+### Math 131A -- Introduction to Real Analysis
+Spring 2024, Fall 2024, Winter 2025 (Lectures 3 and 4), Fall 2025
+
+<b>Discussion worksheets:</b> Week [1](https://arianachin00.github.io/ariana-chin/files/CV.pdf), Week [2](https://arianachin00.github.io/ariana-chin/files/CV.pdf), Week [3](https://arianachin00.github.io/ariana-chin/files/CV.pdf), Week [4](https://arianachin00.github.io/ariana-chin/files/CV.pdf), Week [5](https://arianachin00.github.io/ariana-chin/files/CV.pdf), Week [6](https://arianachin00.github.io/ariana-chin/files/CV.pdf), Week [7](https://arianachin00.github.io/ariana-chin/files/CV.pdf), Week [8](https://arianachin00.github.io/ariana-chin/files/CV.pdf), Week [9](https://arianachin00.github.io/ariana-chin/files/CV.pdf), Week [10](https://arianachin00.github.io/ariana-chin/files/CV.pdf)
+
+### Math 61 -- Introduction to Discrete Structures
+Winter 2024 (Lectures 1 and 2), Spring 2025, Summer 2025
+
+<b>Discussion worksheets:</b> Week [1](https://arianachin00.github.io/ariana-chin/files/CV.pdf), Week [2](https://arianachin00.github.io/ariana-chin/files/CV.pdf), Week [3](https://arianachin00.github.io/ariana-chin/files/CV.pdf), Week [4](https://arianachin00.github.io/ariana-chin/files/CV.pdf), Week [5](https://arianachin00.github.io/ariana-chin/files/CV.pdf), Week [6](https://arianachin00.github.io/ariana-chin/files/CV.pdf), Week [7](https://arianachin00.github.io/ariana-chin/files/CV.pdf), Week [8](https://arianachin00.github.io/ariana-chin/files/CV.pdf), Week [9](https://arianachin00.github.io/ariana-chin/files/CV.pdf), Week [10](https://arianachin00.github.io/ariana-chin/files/CV.pdf)
+
+### Math 33A -- Linear Algebra
+Spring 2023
+
+### Math 32A -- Multivariable Calculus
+Fall 2024
 
 # More About Me
 I play [violin!](https://arianachin00.github.io/ariana-chin/files/music.pdf)
