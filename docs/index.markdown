@@ -58,6 +58,9 @@ Spring 2023
 Fall 2024
 
 # Talks
+### Tiling Aperiodically with the Hat (June 2023) [[slides]](https://arianachin00.github.io/ariana-chin/files/Aperiodic_Monotile.pdf)
+A presentation of the viral [paper](https://arxiv.org/abs/2303.10798) introducing the first aperiodic monotile, a single shape that can tile the plane aperiodically. In this talk, we walk through the proof argument for aperiodicity, and examine the continuum of tiles presented in the paper. We also note the more recent discovery of [Spectres](https://arxiv.org/abs/2305.17743), a family of strictly chiral aperiodic monotiles.
+
 ### 2-Calabi-Yau Triangulated Categories (June 2024) [[notes]](https://arianachin00.github.io/ariana-chin/files/Triangulated_Categories.pdf)
 An introduction to categorification of cluster algebras. This talk begins with an overview of cluster algebras, then discusses the motivation and applications of categorification. Finally, we give the complete construction of the cluster category for simply-laced Dynkin diagrams, as well as its cluster structure (what mutation looks like in cluster-tilting sets).
 
