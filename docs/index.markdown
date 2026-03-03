@@ -13,6 +13,9 @@ Attached is my [CV](https://arianachin00.github.io/ariana-chin/files/CV.pdf).
 
 # Papers
 
+### "Half-periodicity of Zamolodchikov periodic cluster algebras" [[pdf]](https://arxiv.org/pdf/2602.15140) [[arXiv:2602.15140]](https://arxiv.org/abs/2602.15140).
+2026
+
 ### "Classification of Zamolodchikov periodic cluster algebras" [[pdf]](https://arxiv.org/pdf/2510.18031) [[arXiv:2510.18031]](https://arxiv.org/abs/2510.18031).
 2025
 
