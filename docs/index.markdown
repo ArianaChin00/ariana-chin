@@ -4,6 +4,7 @@
 
 layout: default
 ---
+<img class="img_deg" src="https://arianachin00.github.io/ariana-chin/files/Profile.jpg" width="300">
 
 <b>Email: </b> arianagchin@math.ucla.edu
 
@@ -16,6 +17,7 @@ Attached is my [CV](https://arianachin00.github.io/ariana-chin/files/CV.pdf).
     July 2026 - Formal Power Series and Algebraic Combinatorics (FPSAC) 2026 (poster) <br>
     August 2026 - Amplitudedra and Total Positivity (AToP) 2026 <br>
     November 2026 - AMS Fall Western Section: Diagrammatics for Cluster Algebras and Physics (talk)
+<!-- <img src="https://arianachin00.github.io/ariana-chin/files/Profile.jpg" alt="Description" style="float: right; width: 200; height: auto; margin-left: 20;"> -->
 
 
 # Papers
