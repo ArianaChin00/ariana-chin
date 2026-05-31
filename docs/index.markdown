@@ -11,6 +11,13 @@ layout: default
 
 Attached is my [CV](https://arianachin00.github.io/ariana-chin/files/CV.pdf).
 
+<b>Upcoming Events: </b> <br>
+    June 2026 - CMND 2026 Thematic Program: Algebraic Combinatorics and Applications <br>
+    July 2026 - Formal Power Series and Algebraic Combinatorics (FPSAC) 2026 (poster) <br>
+    August 2026 - Amplitudedra and Total Positivity (AToP) 2026 <br>
+    November 2026 - AMS Fall Western Section: Diagrammatics for Cluster Algebras and Physics (talk)
+
+
 # Papers
 
 ### "Half-periodicity of Zamolodchikov periodic cluster algebras" [[pdf]](https://arxiv.org/pdf/2602.15140) [[arXiv:2602.15140]](https://arxiv.org/abs/2602.15140).
