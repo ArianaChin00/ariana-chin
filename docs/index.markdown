@@ -42,7 +42,7 @@ Joint work with Liljana Babinkostova, Aaron Kirtland, Esther Plotnick, and Vlady
 Spring 2024
 
 ### <b>Math 170E</b> -- Introduction to Probability and Statistics
-Fall 2022, Winter 2023, Fall 2023 (Lectures 1 and 3), Spring 2025
+Fall 2022, Winter 2023, Fall 2023 (Lectures 1 and 3), Spring 2025, Spring 2026
 
 ### <b>Math 131A</b> -- Introduction to Real Analysis
 Spring 2024, Fall 2024, Winter 2025 (Lectures 3 and 4), Fall 2025
@@ -59,6 +59,9 @@ Spring 2023, Winter 2026
 
 ### <b>Math 32A</b> -- Multivariable Calculus
 Fall 2024
+
+### <b>Math 32B</b> -- Multivariable Calculus
+Spring 2026
 
 # Talks
 ### Tiling Aperiodically with the Hat (June 2023) [[slides]](https://arianachin00.github.io/ariana-chin/files/Aperiodic_Monotile.pdf)
