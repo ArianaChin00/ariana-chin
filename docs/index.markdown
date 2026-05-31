@@ -4,7 +4,13 @@
 
 layout: default
 ---
-<img class="img_deg" src="https://arianachin00.github.io/ariana-chin/files/Profile1.jpg" width="300">
+hello
+<div style="text-align: right;">
+    <img src="https://arianachin00.github.io/ariana-chin/files/Profile1.jpg" alt="Description">
+</div>
+hello
+
+<img class="img_deg" src="https://arianachin00.github.io/ariana-chin/files/Profile1.jpg" width="600" style="float: right;">
 
 <b>Email: </b> arianagchin@math.ucla.edu
 
