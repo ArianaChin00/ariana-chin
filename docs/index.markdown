@@ -5,7 +5,7 @@
 layout: default
 ---
 
-<img class="img_deg" src="https://arianachin00.github.io/ariana-chin/files/Profile1.jpg" width="390" style="float: right;">
+<img class="img_deg" src="https://arianachin00.github.io/ariana-chin/files/Profile1.jpg" width="400" style="float: right;">
 <b>Email: </b> arianagchin@math.ucla.edu
 
 <b>Office: </b> Mathematical Sciences (MS) 2361
@@ -16,7 +16,7 @@ Attached is my [CV](https://arianachin00.github.io/ariana-chin/files/CV.pdf).
     <i>June 2026</i> - CMND 2026 Thematic Program: Algebraic Combinatorics and Applications <br>
     <i>July 2026</i> - FPSAC 2026 (poster) <br>
     <i>August 2026</i> - AToP workshop 2026 <br>
-    <i>November 2026</i> - AMS Fall Western Section: Diagrammatics for Cluster Algebras and Physics (talk)
+    <i>November 2026</i> - AMS Fall Western Section (talk) Diagrammatics for Cluster Algebras and Physics
 <!-- <img src="https://arianachin00.github.io/ariana-chin/files/Profile.jpg" alt="Description" style="float: right; width: 200; height: auto; margin-left: 20;"> -->
 
 
