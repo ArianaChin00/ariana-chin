@@ -13,10 +13,10 @@ layout: default
 Attached is my [CV](https://arianachin00.github.io/ariana-chin/files/CV.pdf).
 
 <b>Upcoming Events: </b> <br>
-    June 2026 - CMND 2026 Thematic Program: Algebraic Combinatorics and Applications <br>
-    July 2026 - FPSAC 2026 (poster) <br>
-    August 2026 - AToP workshop 2026 <br>
-    November 2026 - AMS Fall Western Section: Diagrammatics for Cluster Algebras and Physics (talk)
+    <i>June 2026</i> - CMND 2026 Thematic Program: Algebraic Combinatorics and Applications <br>
+    <i>July 2026</i> - FPSAC 2026 (poster) <br>
+    <i>August 2026</i> - AToP workshop 2026 <br>
+    <i>November 2026</i> - AMS Fall Western Section: Diagrammatics for Cluster Algebras and Physics (talk)
 <!-- <img src="https://arianachin00.github.io/ariana-chin/files/Profile.jpg" alt="Description" style="float: right; width: 200; height: auto; margin-left: 20;"> -->
 
 
