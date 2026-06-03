@@ -5,7 +5,7 @@
 layout: default
 ---
 
-<img class="img_deg" src="https://arianachin00.github.io/ariana-chin/files/Profile1.jpg" width="400" style="float: right;">
+<img class="img_deg" src="https://arianachin00.github.io/ariana-chin/files/Profile1.jpg" width="380" style="float: right;">
 <b>Email: </b> arianagchin@math.ucla.edu
 
 <b>Office: </b> Mathematical Sciences (MS) 2361
@@ -13,10 +13,10 @@ layout: default
 Attached is my [CV](https://arianachin00.github.io/ariana-chin/files/CV.pdf).
 
 <b>Upcoming Events: </b> <br>
-    <b><i>June 2026</i></b> - CMND 2026 Thematic Program: Algebraic Combinatorics and Applications <br>
+    <b><i>June 2026</i></b> - CMND 2026 Thematic Program: <br> Algebraic Combinatorics and Applications <br>
     <b><i>July 2026</i></b> - FPSAC 2026 (poster) <br>
     <b><i>August 2026</i></b> - AToP workshop 2026 <br>
-    <b><i>September 2026</i></b> - IPAM Tutorials week (talk): Quantum Topology, Charater Varieties and Low-Dimensional Geometry <br>
+    <b><i>September 2026</i></b> - IPAM Tutorials week (talk): <br> Quantum Topology, Charater Varieties and Low-Dimensional Geometry <br>
     <b><i>November 2026</i></b> - AMS Fall Western Section (talk): Diagrammatics for Cluster Algebras and Physics
 <!-- <img src="https://arianachin00.github.io/ariana-chin/files/Profile.jpg" alt="Description" style="float: right; width: 200; height: auto; margin-left: 20;"> -->
 
