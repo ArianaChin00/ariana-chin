@@ -23,7 +23,7 @@ email: arianagchin@math.ucla.edu
 description: >- # this means to ignore newlines until "baseurl:"
   I am a 4th year PhD student at UCLA. 
   I study algebraic combinatorics under Pavel Galashin, with an interest in cluster algebras and Zamolodchikov periodicity.
-  In Spring 2026, I am a Teaching Assistant for Math 170E -- Probability and Math 32B -- Multivariable Calculus.
+  In Summer 2026, I am the instructor for Math 170E -- Introduction to Probability.
 baseurl: "/ariana-chin" # the subpath of your site, e.g. /blog
 url: "https://arianachin00.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
