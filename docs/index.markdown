@@ -16,7 +16,7 @@ Attached is my [CV](https://arianachin00.github.io/ariana-chin/files/CV.pdf).
 <b>Fellowships and Awards:</b> <br>
     2026-2027 UCLA Dissertation Year Award <br>
     2026 UCLA Liggett Teaching Award <br>
-    2026 UCLA Graduate Student Spotlight ([link](https://ww3.math.ucla.edu/graduate-student-spotlight-ariana-chin/)) ([Instagram](https://www.instagram.com/p/DZLG9vcj-e7/?igsh=MzRlODBiNWFlZA==)) <br>
+    2026 UCLA Graduate Student Spotlight ([link](https://ww3.math.ucla.edu/graduate-student-spotlight-ariana-chin/)) ([Insta](https://www.instagram.com/p/DZLG9vcj-e7/?igsh=MzRlODBiNWFlZA==)) <br>
     2024 UCLA Balbes Award
 
 <b>Upcoming Events: </b> <br>
