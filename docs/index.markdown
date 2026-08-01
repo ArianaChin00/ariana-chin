@@ -79,17 +79,27 @@ Fall 2024
 Spring 2026
 
 # Talks
-### Tiling Aperiodically with the Hat (June 2023) [[slides]](https://arianachin00.github.io/ariana-chin/files/Aperiodic_Monotile.pdf)
-A presentation of the viral [paper](https://arxiv.org/abs/2303.10798) introducing the first aperiodic monotile, a single shape that can tile the plane aperiodically. In this talk, we walk through the proof argument for aperiodicity, and examine the continuum of tiles presented in the paper. We also note the more recent discovery of [Spectres](https://arxiv.org/abs/2305.17743), a family of strictly chiral aperiodic monotiles.
 
-### 2-Calabi-Yau Triangulated Categories (June 2024) [[notes]](https://arianachin00.github.io/ariana-chin/files/Triangulated_Categories.pdf)
-An introduction to categorification of cluster algebras. This talk begins with an overview of cluster algebras, then discusses the motivation and applications of categorification. Finally, we give the complete construction of the cluster category for simply-laced Dynkin diagrams, as well as its cluster structure (what mutation looks like in cluster-tilting sets).
+<b>Zamolodchikov Periodic Cluster Algebras</b> <br>
+<i>July 2026</i> - [poster](https://sites.math.washington.edu/fpsac2026/public/abstracts/chin.pdf) and [extended abstract](https://sites.math.washington.edu/fpsac2026/public/abstracts/chin.pdf) for FPSAC 2026 <br>
+<i>July 2026</i> - [lightning talk](https://www.youtube.com/watch?v=ii9GMRSXhfo) at CMND 2026 Thematic Program: Algebraic Combinatorics and Applications <br>
+<i>April 2026</i> - Cornell Combinatorics Seminar <br>
+<i>April 2026</i> - UIUC Combinatorics Seminar <br>
+<i>April 2026</i> - poster at ALGECOM 2026 <br>
+<i>April 2026</i> - UMN Combinatorics Seminar <br>
+<i>April 2026</i> - UMN Combinatorics Graduate Student Seminar
 
-### Auslander-Reiten Quivers as a Cluster Algebra of Type A (October 2024) [[notes]](https://arianachin00.github.io/ariana-chin/files/A-R_Quivers.pdf)
+<b>Catalan Numbers (November 2025) [[notes]](https://arianachin00.github.io/ariana-chin/files/Catalan.pdf)</b> <br>
+An overview of the history of the Catalan numbers, and a presentation of nine different combinatorial interpretations of the Catalan numbers: triangulations, binary trees, bracketings/parenthesizations, plane trees, ballot sequences, Dyck paths, noncrossing chords on a circle, 312-avoiding permutations, and 321-avoiding permutations. The notes from this talk draw heavily from Igor Pak's [history](https://www.math.ucla.edu/~pak/papers/cathist4.pdf) of the Catalan numbers, and Richard Stanley's [talk](https://math.mit.edu/~rstan/transparencies/china.pdf).
+
+<b> Auslander-Reiten Quivers as a Cluster Algebra of Type A (October 2024) [[notes]](https://arianachin00.github.io/ariana-chin/files/A-R_Quivers.pdf)</b> <br>
 An exploration of Auslander-Reiten quivers in the context of Type A cluster algebras. This talk begins with an overview of Type A cluster algebras and then moves on to the construction of the cluster category for Type A. Finally, we present a way to view Auslander-Reiten quivers of Type A as a cluster algebra directly in terms of the triangulations of a regular n-gon.
 
-### Catalan Numbers (November 2025) [[notes]](https://arianachin00.github.io/ariana-chin/files/Catalan.pdf)
-An overview of the history of the Catalan numbers, and a presentation of nine different combinatorial interpretations of the Catalan numbers: triangulations, binary trees, bracketings/parenthesizations, plane trees, ballot sequences, Dyck paths, noncrossing chords on a circle, 312-avoiding permutations, and 321-avoiding permutations. The notes from this talk draw heavily from Igor Pak's [history](https://www.math.ucla.edu/~pak/papers/cathist4.pdf) of the Catalan numbers, and Richard Stanley's [talk](https://math.mit.edu/~rstan/transparencies/china.pdf).
+<b>2-Calabi-Yau Triangulated Categories (June 2024) [[notes]](https://arianachin00.github.io/ariana-chin/files/Triangulated_Categories.pdf)</b> <br>
+An introduction to categorification of cluster algebras. This talk begins with an overview of cluster algebras, then discusses the motivation and applications of categorification. Finally, we give the complete construction of the cluster category for simply-laced Dynkin diagrams, as well as its cluster structure (what mutation looks like in cluster-tilting sets).
+
+<b>Tiling Aperiodically with the Hat (June 2023) [[slides]](https://arianachin00.github.io/ariana-chin/files/Aperiodic_Monotile.pdf)</b> <br>
+A presentation of the viral [paper](https://arxiv.org/abs/2303.10798) introducing the first aperiodic monotile, a single shape that can tile the plane aperiodically. In this talk, we walk through the proof argument for aperiodicity, and examine the continuum of tiles presented in the paper. We also note the more recent discovery of [Spectres](https://arxiv.org/abs/2305.17743), a family of strictly chiral aperiodic monotiles.
 
 # More About Me
 I play [violin!](https://arianachin00.github.io/ariana-chin/files/music.pdf) I also jointly organize the [Women in Mathematics](https://ww3.math.ucla.edu/women-in-math/) group at UCLA.
