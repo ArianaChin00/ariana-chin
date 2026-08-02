@@ -57,7 +57,7 @@ Joint work with Liljana Babinkostova, Aaron Kirtland, Esther Plotnick, and Vlady
 
 <b>Zamolodchikov Periodic Cluster Algebras</b> <br>
 <i>July 13, 2026</i> - [poster](https://arianachin00.github.io/ariana-chin/files/Poster.pdf) and [extended abstract](https://sites.math.washington.edu/fpsac2026/public/abstracts/chin.pdf) for FPSAC 2026 <br>
-<i>July 7, 2026</i> - [lightning talk](https://www.youtube.com/watch?v=ii9GMRSXhfo) at CMND 2026 Thematic Program: Algebraic Combinatorics and Applications <br>
+<i>July 7, 2026</i> - [lightning talk](https://www.youtube.com/watch?v=ii9GMRSXhfo) at CMND Thematic Program: Algebraic Combinatorics and Applications <br>
 <i>April 20, 2026</i> - Cornell Combinatorics Seminar <br>
 <i>April 13, 2026</i> - UIUC Combinatorics Seminar <br>
 <i>April 11, 2026</i> - [poster](https://arianachin00.github.io/ariana-chin/files/Poster.pdf) at ALGECOM 2026 <br>
