@@ -56,13 +56,12 @@ Joint work with Liljana Babinkostova, Aaron Kirtland, Esther Plotnick, and Vlady
 # Talks
 
 <b>Zamolodchikov Periodic Cluster Algebras</b> <br>
-<i>July 2026</i> - [poster](https://sites.math.washington.edu/fpsac2026/public/abstracts/chin.pdf) and [extended abstract](https://sites.math.washington.edu/fpsac2026/public/abstracts/chin.pdf) for FPSAC 2026 <br>
-<i>July 2026</i> - [lightning talk](https://www.youtube.com/watch?v=ii9GMRSXhfo) at CMND 2026 Thematic Program: Algebraic Combinatorics and Applications <br>
-<i>April 2026</i> - Cornell Combinatorics Seminar <br>
-<i>April 2026</i> - UIUC Combinatorics Seminar <br>
-<i>April 2026</i> - poster at ALGECOM 2026 <br>
-<i>April 2026</i> - UMN Combinatorics Seminar <br>
-<i>April 2026</i> - UMN Combinatorics Graduate Student Seminar
+<i>July 13, 2026</i> - [poster](https://arianachin00.github.io/ariana-chin/files/Poster.pdf) and [extended abstract](https://sites.math.washington.edu/fpsac2026/public/abstracts/chin.pdf) for FPSAC 2026 <br>
+<i>July 7, 2026</i> - [lightning talk](https://www.youtube.com/watch?v=ii9GMRSXhfo) at CMND 2026 Thematic Program: Algebraic Combinatorics and Applications <br>
+<i>April 20, 2026</i> - Cornell Combinatorics Seminar <br>
+<i>April 13, 2026</i> - UIUC Combinatorics Seminar <br>
+<i>April 11, 2026</i> - [poster](https://arianachin00.github.io/ariana-chin/files/Poster.pdf) at ALGECOM 2026 <br>
+<i>April 9, 2026</i> - UMN Combinatorics Seminar <br>
 
 <b>Catalan Numbers (November 2025) [[notes]](https://arianachin00.github.io/ariana-chin/files/Catalan.pdf)</b> <br>
 An overview of the history of the Catalan numbers, and a presentation of nine different combinatorial interpretations of the Catalan numbers: triangulations, binary trees, bracketings/parenthesizations, plane trees, ballot sequences, Dyck paths, noncrossing chords on a circle, 312-avoiding permutations, and 321-avoiding permutations. The notes from this talk draw heavily from Igor Pak's [history](https://www.math.ucla.edu/~pak/papers/cathist4.pdf) of the Catalan numbers, and Richard Stanley's [talk](https://math.mit.edu/~rstan/transparencies/china.pdf).
@@ -81,7 +80,7 @@ A presentation of the viral [paper](https://arxiv.org/abs/2303.10798) introducin
 Spring 2024
 
 ### <b>Math 170E</b> -- Introduction to Probability and Statistics
-Fall 2022, Winter 2023, Fall 2023 (Lectures 1 and 3), Spring 2025, Spring 2026
+Fall 2022, Winter 2023, Fall 2023 (Lectures 1 and 3), Spring 2025, Spring 2026, Summer 2026
 
 ### <b>Math 131A</b> -- Introduction to Real Analysis
 Spring 2024, Fall 2024, Winter 2025 (Lectures 3 and 4), Fall 2025 <br>
