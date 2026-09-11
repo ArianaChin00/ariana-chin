@@ -21,8 +21,8 @@ Attached is my [CV](https://arianachin00.github.io/ariana-chin/files/CV.pdf).
 
 <b>Upcoming Events: </b> <br>
     <b><i>September 2026</i></b> - IPAM Tutorials week (talk): Quantum Topology, Character Varieties and Low-Dimensional Geometry <br>
-    <b><i>October 2026</i></b> - Richard P. Stanley Seminar in Combinatorics (talk)
-    <b><i>October 2026</i></b> - University of Michigan, Ann Arbor Combinatorics Seminar (talk)
+    <b><i>October 2026</i></b> - Richard P. Stanley Seminar in Combinatorics (talk) <br>
+    <b><i>October 2026</i></b> - University of Michigan, Ann Arbor Combinatorics Seminar (talk) <br>
     <b><i>November 2026</i></b> - AMS Fall Western Section (talk): Diagrammatics for Cluster Algebras and Physics
 <!-- <img src="https://arianachin00.github.io/ariana-chin/files/Profile.jpg" alt="Description" style="float: right; width: 200; height: auto; margin-left: 20;"> -->
 
