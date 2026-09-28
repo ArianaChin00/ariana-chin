@@ -46,11 +46,11 @@ Joint work with Elisabeth Bullock, Noah Caplinger, Nyah Davis, and Gahl Shemy.
 
 ### “The Polynomial Learning With Errors Problem and the Smearing Condition” [[arXiv:2008.04459]](https://arxiv.org/abs/2008.04459)
 Joint work with Liljana Babinkostova, Aaron Kirtland, Esther Plotnick, and Vladyslav Nazarchuk.<br>
-<i>Journal of Mathematical Cryptology</i>, vol. 16, no. 1, 2022, pp. 215-232. <br>https://doi.org/10.1515/jmc-2020-0035
+<i>Journal of Mathematical Cryptology</i>, vol. 16, no. 1, 2022, pp. 215-232. <br>[https://doi.org/10.1515/jmc-2020-0035](https://doi.org/10.1515/jmc-2020-0035)
 
 ### “The Ring Learning With Errors Problem: Spectral Distortion” [[arXiv:2007.13189]](https://arxiv.org/abs/2007.13189)
 Joint work with Liljana Babinkostova, Aaron Kirtland, Esther Plotnick, and Vladyslav Nazarchuk.<br>
-<i>Involve</i>, vol. 18, no. 2, 2025, pp. 181-198. <br>https://doi.org/10.2140/involve.2025.18.181
+<i>Involve: a Journal of Mathematics</i>, vol. 18, no. 2, 2025, pp. 181-198. <br>[https://doi.org/10.2140/involve.2025.18.181](https://doi.org/10.2140/involve.2025.18.181)
 
 
 # Talks
