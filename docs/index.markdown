@@ -44,15 +44,18 @@ Joint work with Noah Caplinger, Nyah Davis, and Swapnil Garg.
 Joint work with Elisabeth Bullock, Noah Caplinger, Nyah Davis, and Gahl Shemy.
 2021
 
-### “The Polynomial Learning With Errors Problem and the Smearing Condition” [[paper]](https://www.degruyterbrill.com/document/doi/10.1515/jmc-2020-0035/html?lang=en&srsltid=AfmBOopi4fdrtJMS8WuMcrIIdJ53A16bzfkLJ4PPqfruhOR1A5oh8JqT) [[arXiv:2008.04459]](https://arxiv.org/abs/2008.04459)
-Joint work with Liljana Babinkostova, Aaron Kirtland, Esther Plotnick, and Vladyslav Nazarchuk.
-2019
+### “The Polynomial Learning With Errors Problem and the Smearing Condition” [[arXiv:2008.04459]](https://arxiv.org/abs/2008.04459)
+Joint work with Liljana Babinkostova, Aaron Kirtland, Esther Plotnick, and Vladyslav Nazarchuk.<br>
+<i>Journal of Mathematical Cryptology</i>, vol. 16, no. 1, 2022, pp. 215-232. <br>https://doi.org/10.1515/jmc-2020-0035
 
-### “The Ring Learning With Errors Problem: Spectral Distortion” [[pdf]](https://arxiv.org/pdf/2007.13189) [[arXiv:2007.13189]](https://arxiv.org/abs/2007.13189)
-Joint work with Liljana Babinkostova, Aaron Kirtland, Esther Plotnick, and Vladyslav Nazarchuk.
-2019
+### “The Ring Learning With Errors Problem: Spectral Distortion” [[arXiv:2007.13189]](https://arxiv.org/abs/2007.13189)
+Joint work with Liljana Babinkostova, Aaron Kirtland, Esther Plotnick, and Vladyslav Nazarchuk.<br>
+<i>Involve</i>, vol. 18, no. 2, 2025, pp. 181-198. <br>https://doi.org/10.2140/involve.2025.18.181
+
 
 # Talks
+<b>Introduction to Cluster Algebras</b> <br>
+<i>September 25, 2026</i> - IPAM Tutorials [lecture](https://www.youtube.com/watch?v=xdcpFeZ07dU): Quantum Topology, Character Varieties and Low-Dimensional Geometry <br>
 
 <b>Zamolodchikov Periodic Cluster Algebras</b> <br>
 <i>July 13, 2026</i> - [poster](https://arianachin00.github.io/ariana-chin/files/Poster.pdf) and [extended abstract](https://sites.math.washington.edu/fpsac2026/public/abstracts/chin.pdf) for FPSAC 2026 <br>
