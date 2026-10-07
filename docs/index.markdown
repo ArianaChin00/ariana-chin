@@ -20,7 +20,7 @@ Attached is my [CV](https://arianachin00.github.io/ariana-chin/files/CV.pdf).
     2024 UCLA Balbes Award
 
 <b>Upcoming Events: </b> <br>
-    <b><i>September 2026</i></b> - IPAM Tutorials week (lecture): Quantum Topology, Character Varieties and Low-Dimensional Geometry <br>
+    <b><i>September 2026</i></b> - IPAM Tutorials week ([lecture](https://www.youtube.com/watch?v=xdcpFeZ07dU)): Quantum Topology, Character Varieties and Low-Dimensional Geometry <br>
     <b><i>October 2026</i></b> - Harvard-MIT Richard P. Stanley Seminar in Combinatorics (talk) <br>
     <b><i>October 2026</i></b> - University of Michigan, Ann Arbor Combinatorics Seminar (talk) <br>
     <b><i>November 2026</i></b> - AMS Fall Western Section (talk): Diagrammatics for Cluster Algebras and Physics
@@ -29,26 +29,25 @@ Attached is my [CV](https://arianachin00.github.io/ariana-chin/files/CV.pdf).
 
 # Papers
 
-### "Half-periodicity of Zamolodchikov periodic cluster algebras" [[pdf]](https://arxiv.org/pdf/2602.15140) [[arXiv:2602.15140]](https://arxiv.org/abs/2602.15140).
-2026
+### "Homomesy of Tropical T-systems: Finite Type" (2026) [[arXiv:2610.02548]](https://arxiv.org/abs/2610.02548)
+Joint work with Pavlo Pylyavskyy.
 
-### "Classification of Zamolodchikov periodic cluster algebras" [[pdf]](https://arxiv.org/pdf/2510.18031) [[arXiv:2510.18031]](https://arxiv.org/abs/2510.18031).
-2025
+### "Half-periodicity of Zamolodchikov periodic cluster algebras" (2026) [[arXiv:2602.15140]](https://arxiv.org/abs/2602.15140)
 
-### “F-Polynomial Ratios in the r-Kronecker” [[pdf]](https://www-users.cse.umn.edu/~reiner/REU/REU2021notes/Problem_3_Kronecker_F_polynomials.pdf) [[slides]](https://www-users.cse.umn.edu/~reiner/REU/REU2021notes/Problem_3_Slides.pdf).
+### "Classification of Zamolodchikov periodic cluster algebras" (2025) [[arXiv:2510.18031]](https://arxiv.org/abs/2510.18031)
+
+### “F-Polynomial Ratios in the r-Kronecker” (2021) [[pdf]](https://www-users.cse.umn.edu/~reiner/REU/REU2021notes/Problem_3_Kronecker_F_polynomials.pdf) [[slides]](https://www-users.cse.umn.edu/~reiner/REU/REU2021notes/Problem_3_Slides.pdf).
 
 Joint work with Noah Caplinger, Nyah Davis, and Swapnil Garg.
-2021
 
-### “Lattice Models and Puzzles for Dual Weak Symmetric Grothendieck Polynomials” [[pdf]](https://www-users.cse.umn.edu/~reiner/REU/REU2021notes/Problem_5__Puzzles___Ice.pdf) [[slides]](https://www-users.cse.umn.edu/~reiner/REU/REU2021notes/Problem_5_Slides.pdf).
+### “Lattice Models and Puzzles for Dual Weak Symmetric Grothendieck Polynomials” (2021) [[pdf]](https://www-users.cse.umn.edu/~reiner/REU/REU2021notes/Problem_5__Puzzles___Ice.pdf) [[slides]](https://www-users.cse.umn.edu/~reiner/REU/REU2021notes/Problem_5_Slides.pdf).
 Joint work with Elisabeth Bullock, Noah Caplinger, Nyah Davis, and Gahl Shemy.
-2021
 
-### “The Polynomial Learning With Errors Problem and the Smearing Condition” [[arXiv:2008.04459]](https://arxiv.org/abs/2008.04459)
+### “The Polynomial Learning With Errors Problem and the Smearing Condition”
 Joint work with Liljana Babinkostova, Aaron Kirtland, Esther Plotnick, and Vladyslav Nazarchuk.<br>
 <i>Journal of Mathematical Cryptology</i>, vol. 16, no. 1, 2022, pp. 215-232. <br>[https://doi.org/10.1515/jmc-2020-0035](https://doi.org/10.1515/jmc-2020-0035)
 
-### “The Ring Learning With Errors Problem: Spectral Distortion” [[arXiv:2007.13189]](https://arxiv.org/abs/2007.13189)
+### “The Ring Learning With Errors Problem: Spectral Distortion”
 Joint work with Liljana Babinkostova, Aaron Kirtland, Esther Plotnick, and Vladyslav Nazarchuk.<br>
 <i>Involve: a Journal of Mathematics</i>, vol. 18, no. 2, 2025, pp. 181-198. <br>[https://doi.org/10.2140/involve.2025.18.181](https://doi.org/10.2140/involve.2025.18.181)
 
