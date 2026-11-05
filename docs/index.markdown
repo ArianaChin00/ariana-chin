@@ -20,10 +20,10 @@ Attached is my [CV](https://arianachin00.github.io/ariana-chin/files/CV.pdf).
     2024 UCLA Balbes Award
 
 <b>Upcoming Events: </b> <br>
-    <b><i>September 2026</i></b> - IPAM Tutorials week ([lecture](https://www.youtube.com/watch?v=xdcpFeZ07dU)): Quantum Topology, Character Varieties and Low-Dimensional Geometry <br>
     <b><i>October 2026</i></b> - Harvard-MIT Richard P. Stanley Seminar in Combinatorics (talk) <br>
     <b><i>October 2026</i></b> - University of Michigan, Ann Arbor Combinatorics Seminar (talk) <br>
-    <b><i>November 2026</i></b> - AMS Fall Western Section (talk): Diagrammatics for Cluster Algebras and Physics
+    <b><i>November 2026</i></b> - AMS Fall Western Section (talk): Diagrammatics for Cluster Algebras and Physics <br>
+    <b><i>November 2026</i></b> - Combinatorics and Arithmetic for Physics (CAP) 2026 (talk)
 <!-- <img src="https://arianachin00.github.io/ariana-chin/files/Profile.jpg" alt="Description" style="float: right; width: 200; height: auto; margin-left: 20;"> -->
 
 
